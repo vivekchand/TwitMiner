@@ -1,6 +1,7 @@
 TwitMiner
 =========
-Tweet Miner - Machine Learning Contest by Amazon & IISc
+TwitMiner - Machine Learning Contest by Amazon & IISc
+http://events.csa.iisc.ernet.in/opendays2013/twitminer/challenge.html
 
 Usage & Files:
 ==============
