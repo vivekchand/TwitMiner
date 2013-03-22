@@ -5,6 +5,9 @@ TwitMiner - Machine Learning Contest by Amazon & IISc
 What is this?
 =============
 http://events.csa.iisc.ernet.in/opendays2013/twitminer/challenge.html
+
+Mini Report:
+============
 https://github.com/vivekchand19/TwitMiner/blob/master/twitminer.pdf
 
 Usage & Files:
